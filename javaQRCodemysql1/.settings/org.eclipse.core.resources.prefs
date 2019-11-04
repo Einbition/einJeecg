@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebRoot/bht.jsp=GB2312
+encoding//WebRoot/index.jsp=UTF-8
+encoding//src/control/MainCtrl.java=gb2312
+encoding//src/control/Upload.java=gb2312
+encoding//src/dao/CommDAO.java=gb2312
+encoding//src/servlet/QRCode.java=gb2312
+encoding//src/util/Info.java=gb2312
+encoding//src/util/PageManager.java=gb2312
+encoding//src/util/QRCodeUtil.java=gb2312
+encoding//src/util/SetChar.java=gb2312
+encoding//src/util/StrUtil.java=UTF-8
+encoding/<project>=UTF-8
+encoding/src=UTF-8
